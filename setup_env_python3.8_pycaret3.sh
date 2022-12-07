@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Script to setup pycaret on AWS Cloud9 IDE
 
 sudo apt-get update;
