@@ -1,3 +1,5 @@
+# Script to setup pycaret on AWS Cloud9 IDE
+
 sudo apt-get update;
 sudo apt-get install -y python3.8;
 sudo apt-get install -y python3.8-distutils;
